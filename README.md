@@ -9,6 +9,9 @@
 - [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/submissions/1579525449/)
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/submissions/1579527632/)
 
+## Array and Hashing
+- [Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/1579539570/)
+
 ## String
 - [Length of Last Word](https://leetcode.com/problems/length-of-last-word/submissions/1579533508/)
 
