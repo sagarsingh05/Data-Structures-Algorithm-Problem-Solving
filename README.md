@@ -11,6 +11,8 @@
 
 ## Array and Hashing
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/1579539570/)
+- [Contain Duplicate](https://leetcode.com/problems/contains-duplicate/submissions/1614368995/)
+- [Group Anagram](https://leetcode.com/problems/group-anagrams/submissions/1614492510/)
 
 ## String
 - [Length of Last Word](https://leetcode.com/problems/length-of-last-word/submissions/1579533508/)
