@@ -20,3 +20,6 @@
 ## Recursion
 - [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/submissions/1579522550/)
 - [Power of Two](https://leetcode.com/problems/power-of-two/submissions/1579523842/)
+
+## Sorting
+- [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/submissions/1617488062/)
