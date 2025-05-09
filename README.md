@@ -29,3 +29,4 @@
 - [Search 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/submissions/1629152290/)
 - [Search Insert Position](https://leetcode.com/problems/search-insert-position/submissions/1629211350/)
 - [Guess Number Higher Or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/submissions/1629223873/)
+- [Arranging Coin](https://leetcode.com/problems/arranging-coins/submissions/1629243105/)
