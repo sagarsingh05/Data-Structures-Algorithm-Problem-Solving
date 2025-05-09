@@ -23,3 +23,6 @@
 
 ## Sorting
 - [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/submissions/1617488062/)
+
+## Searching
+- [First and last element](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/1629128989/)
