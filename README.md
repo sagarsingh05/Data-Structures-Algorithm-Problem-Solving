@@ -32,3 +32,4 @@
 - [Arranging Coin](https://leetcode.com/problems/arranging-coins/submissions/1629243105/)
 - [Perfect Square](https://leetcode.com/problems/valid-perfect-square/submissions/1629263962/)
 - [Find Peak Element](https://leetcode.com/problems/find-peak-element/submissions/1631719472/)
+- [Koko Eating Banana](https://leetcode.com/problems/koko-eating-bananas/submissions/1633400200/)
