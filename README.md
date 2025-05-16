@@ -33,3 +33,4 @@
 - [Perfect Square](https://leetcode.com/problems/valid-perfect-square/submissions/1629263962/)
 - [Find Peak Element](https://leetcode.com/problems/find-peak-element/submissions/1631719472/)
 - [Koko Eating Banana](https://leetcode.com/problems/koko-eating-bananas/submissions/1633400200/)
+- [Successful Pairs Of Spells And Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/submissions/1635328745/)
