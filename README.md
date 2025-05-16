@@ -34,3 +34,4 @@
 - [Find Peak Element](https://leetcode.com/problems/find-peak-element/submissions/1631719472/)
 - [Koko Eating Banana](https://leetcode.com/problems/koko-eating-bananas/submissions/1633400200/)
 - [Successful Pairs Of Spells And Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/submissions/1635328745/)
+- [Single Element In A Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/submissions/1635404898/)
