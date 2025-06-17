@@ -35,3 +35,4 @@
 - [Koko Eating Banana](https://leetcode.com/problems/koko-eating-bananas/submissions/1633400200/)
 - [Successful Pairs Of Spells And Potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/submissions/1635328745/)
 - [Single Element In A Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/submissions/1635404898/)
+- [Capcity To Ship Packegs Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/submissions/1635471318/)
