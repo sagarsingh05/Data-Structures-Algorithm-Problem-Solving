@@ -8,6 +8,8 @@
 - [Remove Element](https://leetcode.com/problems/remove-element/submissions/1579507523/)
 - [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/submissions/1579525449/)
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/submissions/1579527632/)
+- [Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/1668971580/)
+- [Best Time To Buy And Sell Stock- II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/submissions/1668970523/)
 
 ## Array and Hashing
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/1579539570/)
