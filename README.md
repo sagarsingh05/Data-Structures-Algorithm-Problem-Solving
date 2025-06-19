@@ -10,6 +10,8 @@
 - [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/submissions/1579527632/)
 - [Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/1668971580/)
 - [Best Time To Buy And Sell Stock- II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/submissions/1668970523/)
+- [Sort Colors](https://leetcode.com/problems/sort-colors/submissions/1669015757/)
+- [Container With Most Water](https://leetcode.com/problems/container-with-most-water/submissions/1669039517/)
 
 ## Array and Hashing
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/1579539570/)
