@@ -20,6 +20,8 @@
 
 ## String
 - [Length of Last Word](https://leetcode.com/problems/length-of-last-word/submissions/1579533508/)
+- [Reverse Word In A String](https://leetcode.com/problems/reverse-words-in-a-string/submissions/1671354239/)
+- [Reverse Vowel Of A String](https://leetcode.com/problems/reverse-vowels-of-a-string/submissions/1671375163/)
 
 ## Recursion
 - [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/submissions/1579522550/)
@@ -41,3 +43,7 @@
 - [Single Element In A Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/submissions/1635404898/)
 - [Capcity To Ship Packegs Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/submissions/1635471318/)
 - [Minimize The Maximize Difference Of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/submissions/1666853933/)
+- [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/submissions/1682318588/)
+
+## Dyanamic Programming
+- [Friends Pairing](https://www.geeksforgeeks.org/problems/friends-pairing-problem5425/1)
