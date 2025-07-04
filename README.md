@@ -47,3 +47,5 @@
 
 ## Dyanamic Programming
 - [Friends Pairing](https://www.geeksforgeeks.org/problems/friends-pairing-problem5425/1)
+- [Coin Change](https://leetcode.com/problems/coin-change/submissions/1685846882/)
+- [Perfect Sqares](https://leetcode.com/problems/perfect-squares/submissions/1686005227/)
