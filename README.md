@@ -15,13 +15,14 @@
 
 ## Array and Hashing
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/1579539570/)
-- [Contain Duplicate](https://leetcode.com/problems/contains-duplicate/submissions/1614368995/)
 - [Group Anagram](https://leetcode.com/problems/group-anagrams/submissions/1614492510/)
+- [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/submissions/1687578243/)
 
 ## String
 - [Length of Last Word](https://leetcode.com/problems/length-of-last-word/submissions/1579533508/)
 - [Reverse Word In A String](https://leetcode.com/problems/reverse-words-in-a-string/submissions/1671354239/)
 - [Reverse Vowel Of A String](https://leetcode.com/problems/reverse-vowels-of-a-string/submissions/1671375163/)
+- [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/submissions/1687327822/)
 
 ## Recursion
 - [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/submissions/1579522550/)
@@ -49,3 +50,4 @@
 - [Friends Pairing](https://www.geeksforgeeks.org/problems/friends-pairing-problem5425/1)
 - [Coin Change](https://leetcode.com/problems/coin-change/submissions/1685846882/)
 - [Perfect Sqares](https://leetcode.com/problems/perfect-squares/submissions/1686005227/)
+- [Minimum Costs For Ticket](https://leetcode.com/problems/minimum-cost-for-tickets/submissions/1687044915/)
