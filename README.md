@@ -1,4 +1,4 @@
-### DSA with JavaScript(Leetcode)
+### DSA with Java & JavaScript(Leetcode)
 
 ## Array and Two Pointer
 - [Two sum](https://leetcode.com/problems/two-sum/submissions/1579455086/)
@@ -52,3 +52,5 @@
 - [Perfect Sqares](https://leetcode.com/problems/perfect-squares/submissions/1686005227/)
 - [Minimum Costs For Ticket](https://leetcode.com/problems/minimum-cost-for-tickets/submissions/1687044915/)
 - [House Robber](https://leetcode.com/problems/house-robber/submissions/1688655803/)
+- [Triangle](https://leetcode.com/problems/triangle/submissions/1691577662/)
+- [Combination Sum -IV](https://leetcode.com/problems/combination-sum-iv/submissions/1691714031/)
