@@ -54,3 +54,4 @@
 - [House Robber](https://leetcode.com/problems/house-robber/submissions/1688655803/)
 - [Triangle](https://leetcode.com/problems/triangle/submissions/1691577662/)
 - [Combination Sum -IV](https://leetcode.com/problems/combination-sum-iv/submissions/1691714031/)
+- [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/submissions/1693412391/)
