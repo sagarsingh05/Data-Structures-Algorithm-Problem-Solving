@@ -62,3 +62,8 @@
 - [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/submissions/1705031596/)
 - [Best Time To Buy And Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/submissions/1705671777/)
 - [Best Time To Buy And Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/submissions/1705827398/)
+
+## Linked List
+- [Design Linked List](https://leetcode.com/problems/design-linked-list/submissions/1707636343/)
+- [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/submissions/1708833196/)
+- [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/1708851555/)
