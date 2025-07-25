@@ -67,3 +67,5 @@
 - [Design Linked List](https://leetcode.com/problems/design-linked-list/submissions/1707636343/)
 - [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/submissions/1708833196/)
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/1708851555/)
+- [Partition List](https://leetcode.com/problems/partition-list/submissions/1709966712/)
+- [Maximum Twin Sum Of A LinkedList](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/submissions/1711319064/)
