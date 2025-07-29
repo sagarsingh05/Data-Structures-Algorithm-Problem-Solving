@@ -69,3 +69,7 @@
 - [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/1708851555/)
 - [Partition List](https://leetcode.com/problems/partition-list/submissions/1709966712/)
 - [Maximum Twin Sum Of A LinkedList](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/submissions/1711319064/)
+- [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/submissions/1712415704/)
+- [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/submissions/1714938006/)
+- [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/submissions/1716100426/)
+- [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/submissions/1716133932/)
