@@ -73,3 +73,4 @@
 - [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/submissions/1714938006/)
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/submissions/1716100426/)
 - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/submissions/1716133932/)
+- [Split Linked List In Parts]()
