@@ -74,3 +74,6 @@
 - [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/submissions/1716100426/)
 - [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/submissions/1716133932/)
 - [Split Linked List In Parts]()
+
+## Stack
+- [Removing Stars From A String](https://leetcode.com/problems/removing-stars-from-a-string/submissions/1727650383/)
