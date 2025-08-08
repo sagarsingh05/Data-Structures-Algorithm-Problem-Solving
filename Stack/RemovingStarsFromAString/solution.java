@@ -1,6 +1,7 @@
 /**
  * https://leetcode.com/problems/removing-stars-from-a-string/submissions/1727665731/
  */
+import java.util.Stack;
 class Solution {
     public String removeStars(String s) {
        Stack<Character> stack = new Stack<>(); 
