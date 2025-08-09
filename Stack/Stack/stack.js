@@ -16,6 +16,12 @@ class Stack{
     isEmpty(){
         return this.#arr.length === 0;
     }
+    size(){
+        return this.#arr.length;
+    }
+    print(){
+        console.log(this.#arr);
+    }
 }
 let s = new Stack();
 s.push(20);
