@@ -76,6 +76,10 @@
 - [Split Linked List In Parts]()
 
 ## Stack
+- [Stack Using Array]
+- [Stack Using LinkedList]
 - [Removing Stars From A String](https://leetcode.com/problems/removing-stars-from-a-string/submissions/1727650383/)
 - [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/submissions/1727886901/)
 - [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/submissions/1728862213/)
+- [Build An Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/submissions/1730188836/)
+- [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/1730349051/)
